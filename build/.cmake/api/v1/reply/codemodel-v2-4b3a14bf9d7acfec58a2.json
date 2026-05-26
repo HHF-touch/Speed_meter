@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "lvgl",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-lvgl-Debug-50e5d2e6c3bd938f5ef9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lvgl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "lvgl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "lvgl::@b16ffba5fedc7c547903",
+					"jsonFile" : "target-lvgl-Debug-faeafb9f42cafd3d1507.json",
+					"name" : "lvgl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lvgl_demos::@b16ffba5fedc7c547903",
+					"jsonFile" : "target-lvgl_demos-Debug-959d7eff3dd1001c2b06.json",
+					"name" : "lvgl_demos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lvgl_examples::@b16ffba5fedc7c547903",
+					"jsonFile" : "target-lvgl_examples-Debug-ba55bca3368f75c88c2a.json",
+					"name" : "lvgl_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lvgl_thorvg::@b16ffba5fedc7c547903",
+					"jsonFile" : "target-lvgl_thorvg-Debug-f2e9f4bd3e7ce55a6c14.json",
+					"name" : "lvgl_thorvg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-ea95730c6c432bf14d05.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-ebfcc4b459dd251fafad.json",
+					"name" : "run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/stm32_cyclometer/build",
+		"source" : "D:/stm32_cyclometer/lv_port_pc_vscode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

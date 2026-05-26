@@ -1,0 +1,34 @@
+lvgl/CMakeFiles/lvgl.dir/src/libs/frogfs/src/decomp_raw.c.obj: \
+ D:\stm32_cyclometer\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\decomp_raw.c \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lv_conf.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/stdlib/lv_string.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/misc/lv_fs.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/misc/lv_types.h \
+ D:\stm32_cyclometer\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\frogfs_priv.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/libs/frogfs/include/frogfs/frogfs_types.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/libs/frogfs/include/frogfs/frogfs.h \
+ D:\stm32_cyclometer\lv_port_pc_vscode\lvgl\src\libs\frogfs\src\frogfs_format.h

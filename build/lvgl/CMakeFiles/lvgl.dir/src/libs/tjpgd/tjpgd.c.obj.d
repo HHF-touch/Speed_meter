@@ -1,0 +1,19 @@
+lvgl/CMakeFiles/lvgl.dir/src/libs/tjpgd/tjpgd.c.obj: \
+ D:\stm32_cyclometer\lv_port_pc_vscode\lvgl\src\libs\tjpgd\tjpgd.c \
+ D:\stm32_cyclometer\lv_port_pc_vscode\lvgl\src\libs\tjpgd\tjpgd.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lvgl/src/lv_conf_internal.h \
+ D:/stm32_cyclometer/lv_port_pc_vscode/lv_conf.h \
+ D:\stm32_cyclometer\lv_port_pc_vscode\lvgl\src\libs\tjpgd\tjpgdcnf.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/stm32_cyclometer/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+ D:/stm32_cyclometer/mingw64/x86_64-w64-mingw32/include/stddef.h

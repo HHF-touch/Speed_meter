@@ -1,0 +1,301 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/stm32_cyclometer/build/CMakeFiles/4.1.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/stm32_cyclometer/build/CMakeFiles/4.1.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/stm32_cyclometer/build/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/stm32_cyclometer/build/CMakeFiles/4.1.2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"path" : "SDL2-2.32.10/cmake/sdl2-config-version.cmake"
+		},
+		{
+			"path" : "SDL2-2.32.10/x86_64-w64-mingw32/lib/cmake/SDL2/sdl2-config-version.cmake"
+		},
+		{
+			"path" : "SDL2-2.32.10/cmake/sdl2-config.cmake"
+		},
+		{
+			"path" : "SDL2-2.32.10/x86_64-w64-mingw32/lib/cmake/SDL2/sdl2-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/FeatureSummary.cmake"
+		},
+		{
+			"path" : "lvgl/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/stm32_cyclometer/build/CMakeFiles/4.1.2/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/stm32_cyclometer/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"path" : "lvgl/env_support/cmake/os_desktop.cmake"
+		},
+		{
+			"path" : "lvgl/env_support/cmake/version.cmake"
+		},
+		{
+			"path" : "lvgl/lvgl.pc.in"
+		},
+		{
+			"path" : "lvgl/lv_version.h.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/stm32_cyclometer/build",
+		"source" : "D:/stm32_cyclometer/lv_port_pc_vscode"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
